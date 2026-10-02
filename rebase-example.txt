@@ -1,1 +1,2 @@
 Rebase example: first change.
+Rebase example: second change.
