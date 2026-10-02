@@ -1,1 +1,2 @@
 Merge example: first change.
+Merge example: second change.
