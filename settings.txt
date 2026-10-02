@@ -1,0 +1,12 @@
+title=Git practice
+language=ru
+theme=light
+font=Arial
+font_size=14
+autosave=yes
+notifications=yes
+timezone=UTC
+page_size=A4
+encoding=UTF-8
+version=1
+footer=Initial footer
