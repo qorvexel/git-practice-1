@@ -2,3 +2,4 @@
 
 Educational project for learning Git.
 Participants: person1, person2, person3.
+Synchronization between two clones tested.
