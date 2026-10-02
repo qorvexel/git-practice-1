@@ -1,0 +1,2 @@
+Squash example: first change.
+Squash example: second change.
