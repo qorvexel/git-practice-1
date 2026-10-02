@@ -1,0 +1,2 @@
+Feature developed by person2.
+Additional detail for the same commit.
